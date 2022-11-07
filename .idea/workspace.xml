@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb0eaed0-04d6-48e6-985e-45cc5a7ffded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/components/card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/pages/Room/room.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/pages/login/login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/pages/main/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/pages/main/mian-empty.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/components/app/app.test.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/components/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/components/app/app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/pages/main/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/pages/main/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/pages/main/mian-empty.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/pages/main/main-empty.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +76,16 @@
       <workItem from="1666454666205" duration="4070000" />
       <workItem from="1666554694162" duration="1553000" />
       <workItem from="1667251419326" duration="6777000" />
-      <workItem from="1667367759240" duration="23103000" />
+      <workItem from="1667367759240" duration="24000000" />
     </task>
+    <task id="LOCAL-00001" summary="Home task 2_1">
+      <created>1667759899218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667759899218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +102,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Home task 2_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home task 2_1" />
   </component>
 </project>

@@ -6,7 +6,7 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement,
 );
 
-const Offers = [
+const offers = [
   {
     id: 10,
     url: '../project/public/img/apartment-01.jpg',
@@ -64,4 +64,4 @@ root.render(
   </React.StrictMode>,
 );
 
-export default Offers;
+export default offers;

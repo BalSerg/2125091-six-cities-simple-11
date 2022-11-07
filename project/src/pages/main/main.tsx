@@ -1,7 +1,7 @@
 import Card from '../../components/card';
 
 type MainProps = {
-  offer: number;
+  offersLength: number;
 }
 function Main(props:MainProps):JSX.Element {
   return (
@@ -106,7 +106,7 @@ function Main(props:MainProps):JSX.Element {
               </form>
               <div className='cities__places-list places__list tabs__content'>
 
-                {new Array(props.offer).fill('').map((index) => <Card key='index'/>)}
+                {new Array(props.offersLength).fill('').map((index) => <Card key='index'/>)}
               </div>
             </section>
             <div className="cities__right-section">
